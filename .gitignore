@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch large model weights (>100MB exceeds GitHub push limit)
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Operating system
+.DS_Store
+Thumbs.db

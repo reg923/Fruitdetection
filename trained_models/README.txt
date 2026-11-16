@@ -1,0 +1,1 @@
+Presentation pilot: Faster R-CNN with MobileNetV3-Large, EfficientNet-B0 and ResNet-50 backbones. Same 5,000 training images, 5 epochs, 320px, batch 8, original validation/test splits. Classes: Dragon Fruit and Watermelon. Preliminary results, not the full-dataset 20-epoch experiment. Run dataset and Drive setup, then the pilot cell to resume.
