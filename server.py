@@ -186,11 +186,6 @@ def get_samples():
     """
     return [
         {
-            "id": "dragonfruit_multi",
-            "name": "6 Dragon Fruits",
-            "url": "/samples/sample_dragonfruits.jpg"
-        },
-        {
             "id": "watermelon_single",
             "name": "Single Watermelon",
             "url": "/samples/sample_watermelon.jpg"
